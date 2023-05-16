@@ -10,6 +10,7 @@ def happy_new_year():
 def square_integers(int_list):
     return [i * i for i in int_list]
 
+# add fizzbuzz
 def fizzbuzz():
     for i in range(1, 101):
       
